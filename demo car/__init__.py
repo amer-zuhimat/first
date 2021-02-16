@@ -1,1 +1,0 @@
-'name = "<first_app_amer>"'
